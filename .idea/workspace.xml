@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef79cb2e-23e9-4339-9fe3-00e6f0003518" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ctdpy/core/writers/profile_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctdpy/core/writers/profile_plot.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,11 +169,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.jj_mvp_test" />
-      <item itemvalue="Python.svea_run" />
-      <item itemvalue="Python.jj_testing" />
-      <item itemvalue="Python.utils" />
       <item itemvalue="Python.data_handlers" />
+      <item itemvalue="Python.jj_mvp_test" />
+      <item itemvalue="Python.jj_testing" />
+      <item itemvalue="Python.svea_run" />
+      <item itemvalue="Python.utils" />
     </list>
     <recent_temporary>
       <list>
